@@ -25,10 +25,17 @@ cat ./maybehere07/.file2
 
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
-📘 Explanation
+### **📘 Explanation**
 
-find searches all subdirectories and filters files by size, readability, and execution permission.
+- **`ls`**  
+  Lists the contents of the current directory.
 
-The matching file is found inside a subdirectory.
+- **`cd inhere`**  
+  Moves into the directory containing many subfolders.
 
-cat displays the password for the next level.
+- **`find . -type f -size 1033c -readable ! -executable`**  
+  Searches all subdirectories for a readable file of exactly **1033 bytes** that is **not executable**.
+
+- **Matching File**  
+  The correct file is located at:  
+

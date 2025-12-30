@@ -1,0 +1,10 @@
+Bandit Level 0 – Login Format
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+
+Credentials:
+
+Username: bandit0
+
+Password: bandit0

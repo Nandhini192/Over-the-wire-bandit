@@ -49,3 +49,15 @@ Find the password for Bandit Level 13. The file `data.txt` contains multiple lay
 
 <img width="1203" height="509" alt="image" src="https://github.com/user-attachments/assets/72784649-9818-4c2e-856b-7d089cace441" />
 
+
+
+
+<img width="620" height="271" alt="image" src="https://github.com/user-attachments/assets/0ed4a986-c667-4bbe-bdf9-8d5fbb10a529" />
+
+
+
+
+<img width="1269" height="155" alt="image" src="https://github.com/user-attachments/assets/b00690f4-12b8-466a-a362-4158b8255e97" />
+
+
+
